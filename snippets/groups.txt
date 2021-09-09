@@ -17,22 +17,22 @@
 🎵 声田音乐`select`[]🇭🇰 香港`[]🎯 全球直连`[]🇸🇬 新加坡`[]🇯🇵 日本`[]🇺🇲 美国
 🌏 国内媒体`select`[]🎯 全球直连`[]🎵 声田音乐`[]🇨🇳 台湾`[]🇭🇰 香港`[]🔰 节点选择
 🎵 网易云音乐`select`[]🎯 全球直连`解锁
-🇭🇰 香港`select`(港|中港|香港)
-🇸🇬 新加坡`select`(SG|狮城|坡)
-🇯🇵 日本`select`(日本|沪日)
-🇺🇲 美国`select`(美|中美|沪美|US|纽约|波特兰|旧金山|圣何塞)
-🇨🇳 台湾`select`(台|TW)
+🇭🇰 香港`select`(港|中港|香港|Hong kong)
+🇸🇬 新加坡`select`(SG|狮城|新加坡|Singapore)
+🇯🇵 日本`select`(日本|沪日|Japan|日)
+🇺🇲 美国`select`(美|中美|沪美|US|纽约|波特兰|旧金山|圣何塞|United States)
+🇨🇳 台湾`select`(台|TW|Taiwan)
 🇵🇭 菲律宾`select`(菲|PH)
-🇰🇷 韩国`select`(韩|首尔)
-🇷🇺 俄罗斯`select`(俄)
-🇨🇦 加拿大`select`(中加|加拿大|多伦多)
-🇩🇪 德国`select`(德|法兰克福|DE)
-🇮🇳 印度`select`(中印|印度)
-🇧🇷 巴西`select`(巴西)
-🇹🇷 土耳其`select`(土耳其)
-🇦🇷 阿根廷`select`(阿根廷)
-🇬🇧 英国`select`(英|伦敦)
-🇪🇺 不常用`select`(Eu|荷兰|法国|意大利|智利|秘鲁)
+🇰🇷 韩国`select`(韩|首尔|KR)
+🇷🇺 俄罗斯`select`(俄|Russia)
+🇨🇦 加拿大`select`(中加|加拿大|多伦多|Canada)
+🇩🇪 德国`select`(德|法兰克福|DE|Germany)
+🇮🇳 印度`select`(中印|印度|India)
+🇧🇷 巴西`select`(巴西|Brazil)
+🇹🇷 土耳其`select`(土耳其|Turkey|TR)
+🇦🇷 阿根廷`select`(阿根廷|AR|Argentina)
+🇬🇧 英国`select`(英|伦敦|United Kingdom)
+🇪🇺 不常用`select`(Eu|荷兰|法国|意大利|智利|秘鲁|印尼|巴基斯坦|沙特|泰国|澳门|越南|马来|丹麦|乌克兰|奥地利|比利时|瑞士|罗马|墨西哥|巴拿马|哥伦比亚|Netherlands|France|Sweden|Austria|Ireland|Italy|Hungary|Israel|)
 🎯 全球直连`select`[]DIRECT
 🛑 广告拦截`select`[]REJECT`[]DIRECT
 🍃 应用净化`select`[]REJECT`[]DIRECT
