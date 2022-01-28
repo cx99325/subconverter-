@@ -33,6 +33,7 @@
 🇹🇷 土耳其`select`(土耳其|Turkey|TR)
 🇦🇷 阿根廷`select`(阿根廷|AR|Argentina)
 🇬🇧 英国`select`(英|伦敦|United Kingdom)
+🇨🇱 智利`select`(CL|智利)
 🇪🇺 不常用`select`(Eu|荷兰|法国|意大利|智利|秘鲁|印尼|巴基斯坦|沙特|泰国|澳门|越南|马来|丹麦|乌克兰|奥地利|比利时|瑞士|罗马|墨西哥|巴拿马|哥伦比亚|Netherlands|France|Sweden|Austria|Ireland|Italy|Hungary|Israel|)
 🎯 全球直连`select`[]DIRECT
 🛑 广告拦截`select`[]REJECT`[]DIRECT
