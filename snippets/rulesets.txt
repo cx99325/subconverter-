@@ -15,6 +15,7 @@
 📺 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 🎀 Disney+,https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/Disney%2B.list
 💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
+✔️ Prime Video,https://raw.githubusercontent.com/cx99325/clash/main/Prime%20Video.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
 🎵 网易云音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list
