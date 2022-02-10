@@ -13,7 +13,6 @@
 🥅 ESPN,https://raw.githubusercontent.com/cx99325/clash/main/ESPN.list
 ✨ HBO_Go,https://raw.githubusercontent.com/cx99325/Rules/master/Clash/RuleSet/HBO_Go.yaml
 📺 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-📀 Emby(Od),https://raw.githubusercontent.com/cx99325/clash/main/Emby(Od).list
 🎀 Disney+,https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/Disney%2B.list
 💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
