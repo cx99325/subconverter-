@@ -18,6 +18,7 @@
 ✔️ Prime Video,https://raw.githubusercontent.com/cx99325/clash/main/Prime%20Video.list
 🚴 Eurosports,https://raw.githubusercontent.com/cx99325/clash/main/Eurosports.list
 🏀 NBA League Pass,https://raw.githubusercontent.com/cx99325/clash/main/NBA%20League%20Pass.txt
+🕹 Steam,https://raw.githubusercontent.com/cx99325/clash/main/Steam.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
