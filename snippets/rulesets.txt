@@ -13,7 +13,6 @@
 🎀 Disney+,https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/Disney%2B.list
 💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
 ✔️ Prime Video,https://raw.githubusercontent.com/cx99325/clash/main/Prime%20Video.list
-🚴 Eurosports,https://raw.githubusercontent.com/cx99325/clash/main/Eurosports.list
 🏀 NBA League Pass,https://raw.githubusercontent.com/cx99325/clash/main/NBA%20League%20Pass.txt
 🥇 Setanta,https://raw.githubusercontent.com/1anGreens99/1anGree/main/Rules/setantasports.list
 🎮 Steam,https://raw.githubusercontent.com/cx99325/clash/main/Steam.list
