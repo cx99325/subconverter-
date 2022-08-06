@@ -16,6 +16,7 @@
 🏀 NBA League Pass,https://raw.githubusercontent.com/cx99325/clash/main/NBA%20League%20Pass.txt
 🥇 Setanta,https://raw.githubusercontent.com/1anGreens99/1anGree/main/Rules/setantasports.list
 🎮 Steam,https://raw.githubusercontent.com/cx99325/clash/main/Steam.list
+Sky,https://raw.githubusercontent.com/cx99325/clash/main/Sky%20CH.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
