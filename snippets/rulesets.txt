@@ -23,6 +23,7 @@ Sky,https://raw.githubusercontent.com/cx99325/clash/main/Sky%20CH.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
 🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 🔰 节点选择,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
+🔰 节点选择,https://raw.githubusercontent.com/cx99325/clash/main/proxies.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
