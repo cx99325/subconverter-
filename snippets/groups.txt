@@ -40,7 +40,7 @@
 🇦🇷 阿根廷`select`(阿根廷|AR|Argentina)
 🇬🇧 英国`select`(英|伦敦|United Kingdom)
 🇨🇱 智利`select`(CL|智利)
-🔗 斯巴达转发`relay`[]🇺🇲 美国`(SP)
+🔗 斯巴达转发`relay`[]🇭🇰 香港`(SP)
 🎯 全球直连`select`[]DIRECT
 🛑 广告拦截`select`[]REJECT`[]DIRECT
 🍃 应用净化`select`[]REJECT`[]DIRECT
