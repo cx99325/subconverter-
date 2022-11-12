@@ -20,6 +20,7 @@
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
 📡 fuboTV,https://raw.githubusercontent.com/cx99325/clash/main/fubo.list
+🐸 hami,https://raw.githubusercontent.com/cx99325/clash/main/hami.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
 🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
