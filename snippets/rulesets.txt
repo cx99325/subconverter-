@@ -13,7 +13,7 @@
 💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
 ✔️ Prime Video,https://raw.githubusercontent.com/cx99325/clash/main/Prime%20Video.list
 🏀 NBA League Pass,https://raw.githubusercontent.com/cx99325/clash/main/NBA%20League%20Pass.txt
-🥇 Setanta,https://raw.githubusercontent.com/1anGreens99/1anGree/main/Rules/setantasports.list
+;🥇 Setanta,https://raw.githubusercontent.com/1anGreens99/1anGree/main/Rules/setantasports.list
 🎮 Steam,https://raw.githubusercontent.com/cx99325/clash/main/Steam.list
 ☁️ Sky,https://raw.githubusercontent.com/cx99325/clash/main/Sky%20CH.list
 🦘 Stan(AU),https://raw.githubusercontent.com/cx99325/clash/main/Stan(AU).list
