@@ -22,7 +22,7 @@
 ☁️ Sky`select`[]🇩🇪 德国`[]🌐 所有节点`[]🔰 节点选择
 🦘 Stan(AU)`select`[]🇦🇺 澳洲`[]🔰 节点选择`[]🌐 所有节点
 🐸 Hami`select`[]🇨🇳 台湾`[]🔰 节点选择`[]🌐 所有节点`[]🎯 全球直连
-👳‍♂ TOD`select`(埃及|Egypt|EG|Eg)
+👳‍♂ TOD`select`(埃及|Egypt|EG|Eg)`[]🔰 节点选择`[]🌐 所有节点
 🤖 ChatGPT`select`[]🇺🇲 美国`[]🇯🇵 日本`[]🇨🇳 台湾`[]🇸🇬 新加坡`[]🇩🇪 德国`[]🇬🇧 英国`[]🔰 节点选择`[]🌐 所有节点
 🌏 国内媒体`select`[]🎯 全球直连`[]🔰 节点选择
 🇭🇰 香港`select`(港|中港|香港|Hong kong|Hong Kong|HK|hk)
