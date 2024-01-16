@@ -17,6 +17,7 @@
 🎮 Steam,https://raw.githubusercontent.com/cx99325/clash/main/Steam.list
 ☁️ Sky,https://raw.githubusercontent.com/cx99325/clash/main/Sky%20CH.list
 🦘 Stan(AU),https://raw.githubusercontent.com/cx99325/clash/main/Stan(AU).list
+📦 Dropbox,https://raw.githubusercontent.com/cx99325/clash/main/Dropbox.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
 🤖 ChatGPT,https://raw.githubusercontent.com/cx99325/clash/main/chatgpt.list
