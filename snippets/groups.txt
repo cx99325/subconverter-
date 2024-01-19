@@ -31,7 +31,7 @@
 🇯🇵 日本`select`(日本|沪日|Japan|jp|JP)
 🇺🇲 美国`select`(美|中美|沪美|US|纽约|波特兰|旧金山|圣何塞|United States)
 🇨🇳 台湾`select`(台|TW|Taiwan)
-🇲🇴 澳门`select`(澳门|Macao｜MO)
+🇲🇴 澳门`select`(澳门|Macao|MO)
 🇵🇭 菲律宾`select`(菲|PH)
 🇲🇾 马来西亚`select`(MY|Malaysia|马来西亚)
 🇰🇷 韩国`select`(韩|首尔|KR|Korea)
