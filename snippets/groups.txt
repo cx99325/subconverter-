@@ -49,6 +49,7 @@
 🇨🇱 智利`select`(CL|智利)
 ;📎 前置代理`select`.*
 ;🔗 斯巴达转发`relay`[]📎 前置代理`(SP)
+🔗 AWS代理链`relay`[]🇸🇬 新加坡`(AWS)
 🎯 全球直连`select`[]DIRECT
 🛑 广告拦截`select`[]REJECT`[]DIRECT
 🍃 应用净化`select`[]REJECT`[]DIRECT
