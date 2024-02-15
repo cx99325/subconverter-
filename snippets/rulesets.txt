@@ -42,5 +42,6 @@
 🎯 全球直连,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 🎯 全球直连,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/LAN.list
 🎯 全球直连,https://raw.githubusercontent.com/cx99325/clash/main/cn.list
+🎯 全球直连,https://raw.githubusercontent.com/cx99325/clash/main/pt.list
 ;🎯 全球直连,[]GEOIP,CN
 🐟 漏网之鱼,[]FINAL
