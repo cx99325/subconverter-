@@ -1,5 +1,6 @@
 🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+🎯 全球直连,https://raw.githubusercontent.com/cx99325/clash/main/pt.list
 Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
 ⭐️ Star+,https://raw.githubusercontent.com/cx99325/clash/main/star%2B.list
@@ -42,6 +43,5 @@
 🎯 全球直连,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
 🎯 全球直连,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/LAN.list
 🎯 全球直连,https://raw.githubusercontent.com/cx99325/clash/main/cn.list
-🎯 全球直连,https://raw.githubusercontent.com/cx99325/clash/main/pt.list
 ;🎯 全球直连,[]GEOIP,CN
 🐟 漏网之鱼,[]FINAL
