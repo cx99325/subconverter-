@@ -7,7 +7,7 @@
 🎥 NETFLIX,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 🏆 DAZN,https://raw.githubusercontent.com/cx99325/clash/main/DAZN.list
 🥅 ESPN,https://raw.githubusercontent.com/cx99325/clash/main/ESPN.list
-✨ HBO_Go,https://raw.githubusercontent.com/cx99325/Rules/master/Clash/RuleSet/HBO_Go.yaml
+✨ MAX,https://raw.githubusercontent.com/cx99325/clash/refs/heads/main/max.list
 📺 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 🎀 Disney+,https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/Disney%2B.list
 💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
